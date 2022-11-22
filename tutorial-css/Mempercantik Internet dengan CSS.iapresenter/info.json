@@ -1,0 +1,13 @@
+{
+  "version" : 2,
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "darktitletextcolor" : "#fffefe",
+    "template" : "san francisco",
+    "preset" : "Default",
+    "lightbackgroundcolor" : "#2d2d2d",
+    "appearance" : "light"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown"
+}

@@ -7,7 +7,7 @@
     <link rel="icon" href="/logo.svg" />
     <title>Traktir - Membantu creator media sosial</title>
     <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600" rel="stylesheet">
-    @vite(['resources/sass/landing-page/scss/style.scss', 'resources/js/welcome.js'])
+    @vite(['resources/sass/app.scss', 'resources/js/welcome.js'])
 </head>
 <body class="is-boxed has-animations">
     <div class="body-wrap">

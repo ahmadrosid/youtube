@@ -14,6 +14,7 @@
 /* required for Reveal.js to work */
 #app {
 	display: contents;
+	background: url(https://arc.net/noise-light.png);
 }
 
 .reveal-viewport {
